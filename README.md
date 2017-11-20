@@ -10,3 +10,4 @@ The full project overview and supporting files can be found [here](https://githu
 ## List of files
 - `dog_app.ipynb`: completed submission file (Jupyter Notebook)
 - `dog_app.html`: completed submission file (HTML)
+- `images`: subfolder containing images embedded within `dog_app.ipynb`
